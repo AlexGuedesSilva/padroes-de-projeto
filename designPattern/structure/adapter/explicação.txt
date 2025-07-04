@@ -1,0 +1,10 @@
+🤓 Explicação
+O sistema quer trabalhar com TomadaDeTresPinos.
+
+Mas só temos TomadaDeDoisPinos.
+
+O AdapterTomada faz esse "meio de campo", traduzindo uma interface para a outra.
+
+Esse padrão é muito comum em bibliotecas, APIs, e integração entre módulos de software que foram construídos de formas diferentes, mas precisam cooperar.
+
+Se quiser, posso mostrar um exemplo com um cenário mais complexo, como APIs de terceiros ou compatibilidade entre sistemas antigos e modernos. Quer seguir nessa linha?
