@@ -1,4 +1,4 @@
-# Nome do Projeto
+# Design Patterns
 📚 Design Patterns (GoF)
 Este repositório contém os 23 padrões clássicos de design orientado a objetos conforme Gamma, Helm, Johnson e Vlissides (1995).
 
