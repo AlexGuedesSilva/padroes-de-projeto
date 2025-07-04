@@ -84,7 +84,7 @@ public class Main {
 
 ## 🔗 Diagrama UML
 
-![Diagrama UML - Chain of Responsibility](assets/chain of responsibility.png)
+![Diagrama UML - Chain of Responsibility](assets/chain_uml.png)
 
 
 📘 Benefícios
