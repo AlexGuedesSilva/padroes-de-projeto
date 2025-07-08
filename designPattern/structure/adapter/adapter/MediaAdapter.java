@@ -6,6 +6,7 @@ import designPattern.structure.adapter.players.Mp4Player;
 import designPattern.structure.adapter.players.VlcPlayer;
 
 public class MediaAdapter implements MediaPlayer {
+	
     private AdvancedMediaPlayer advancedMusicPlayer;
 
     public MediaAdapter(String audioType) {
