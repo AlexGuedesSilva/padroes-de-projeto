@@ -1,8 +1,8 @@
-package designPattern.creating.factoryMethod;
+package designpattern.creating.factorymethod;
 
-import designPattern.creating.factoryMethod.factory.BikeFactory;
-import designPattern.creating.factoryMethod.factory.CarFactory;
-import designPattern.creating.factoryMethod.factory.TransportFactory;
+import designpattern.creating.factorymethod.factory.BikeFactory;
+import designpattern.creating.factorymethod.factory.CarFactory;
+import designpattern.creating.factorymethod.factory.TransportFactory;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package designPattern.structure.bridge.implementation;
+package designpattern.structure.bridge.implementation;
 
 public interface Device {
 	

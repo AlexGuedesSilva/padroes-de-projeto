@@ -1,4 +1,4 @@
-package designPattern.creating.factoryMethod.transport;
+package designpattern.creating.factorymethod.transport;
 
 public class Car implements Transport{
 

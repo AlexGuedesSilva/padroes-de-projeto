@@ -1,8 +1,9 @@
-package designPattern.creating.abstractFactory.client;
+package designpattern.creating.abstractfactory;
 
-import designPattern.creating.abstractFactory.factories.GUIFactory;
-import designPattern.creating.abstractFactory.factories.MacFactory;
-import designPattern.creating.abstractFactory.factories.WindowsFactory;
+import designpattern.creating.abstractfactory.client.Application;
+import designpattern.creating.abstractfactory.factories.GUIFactory;
+import designpattern.creating.abstractfactory.factories.MacFactory;
+import designpattern.creating.abstractfactory.factories.WindowsFactory;
 
 public class Demo {
     public static void main(String[] args) {

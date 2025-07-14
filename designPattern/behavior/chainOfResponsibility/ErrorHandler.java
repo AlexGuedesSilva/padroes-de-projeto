@@ -1,4 +1,4 @@
-package designPattern.behavior.chainOfResponsibility;
+package designpattern.behavior.chainofresponsibility;
 
 //ConcreteHandler3
 class ErrorHandler extends Handler {

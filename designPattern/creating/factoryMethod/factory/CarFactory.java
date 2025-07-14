@@ -1,7 +1,7 @@
-package designPattern.creating.factoryMethod.factory;
+package designpattern.creating.factorymethod.factory;
 
-import designPattern.creating.factoryMethod.transport.Car;
-import designPattern.creating.factoryMethod.transport.Transport;
+import designpattern.creating.factorymethod.transport.Car;
+import designpattern.creating.factorymethod.transport.Transport;
 
 public class CarFactory extends TransportFactory{
 	@Override

@@ -1,6 +1,6 @@
-package designPattern.creating.abstractFactory.products.impl;
+package designpattern.creating.abstractfactory.products.impl;
 
-import designPattern.creating.abstractFactory.products.Button;
+import designpattern.creating.abstractfactory.products.Button;
 
 public class MacButton implements Button{
 	public void paint() {

@@ -1,6 +1,6 @@
-package designPattern.structure.adapter.players;
+package designpattern.structure.adapter.players;
 
-import designPattern.structure.adapter.interfaces.AdvancedMediaPlayer;
+import designpattern.structure.adapter.interfaces.AdvancedMediaPlayer;
 
 public class Mp4Player implements AdvancedMediaPlayer {
 	

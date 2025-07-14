@@ -1,9 +1,9 @@
-package designPattern.structure.adapter.adapter;
+package designpattern.structure.adapter.adapter;
 
-import designPattern.structure.adapter.interfaces.AdvancedMediaPlayer;
-import designPattern.structure.adapter.interfaces.MediaPlayer;
-import designPattern.structure.adapter.players.Mp4Player;
-import designPattern.structure.adapter.players.VlcPlayer;
+import designpattern.structure.adapter.interfaces.AdvancedMediaPlayer;
+import designpattern.structure.adapter.interfaces.MediaPlayer;
+import designpattern.structure.adapter.players.Mp4Player;
+import designpattern.structure.adapter.players.VlcPlayer;
 
 public class MediaAdapter implements MediaPlayer {
 	

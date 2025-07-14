@@ -1,4 +1,4 @@
-package designPattern.behavior.chainOfResponsibility;
+package designpattern.behavior.chainofresponsibility;
 
 // ConcreteHandler1
 class AuthHandler extends Handler {

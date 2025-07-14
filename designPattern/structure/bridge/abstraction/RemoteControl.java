@@ -1,6 +1,6 @@
-package designPattern.structure.bridge.abstraction;
+package designpattern.structure.bridge.abstraction;
 
-import designPattern.structure.bridge.implementation.Device;
+import designpattern.structure.bridge.implementation.Device;
 
 public class RemoteControl {
     protected Device device;

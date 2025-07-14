@@ -1,9 +1,9 @@
-package designPattern.creating.builder;
+package designpattern.creating.builder;
 
-import designPattern.creating.builder.director.ComputerDirector;
-import designPattern.creating.builder.product.Computer;
-import designPattern.creating.builder.variants.ComputerBuilder;
-import designPattern.creating.builder.variants.GamingComputerBuilder;
+import designpattern.creating.builder.director.ComputerDirector;
+import designpattern.creating.builder.product.Computer;
+import designpattern.creating.builder.variants.ComputerBuilder;
+import designpattern.creating.builder.variants.GamingComputerBuilder;
 
 public class Demo {
     public static void main(String[] args) {

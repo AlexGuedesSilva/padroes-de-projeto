@@ -1,6 +1,6 @@
-package designPattern.creating.builder.variants;
+package designpattern.creating.builder.variants;
 
-import designPattern.creating.builder.product.Computer;
+import designpattern.creating.builder.product.Computer;
 
 /**
  * ConcreteBuilder padrão para configurar um PC Gamer.

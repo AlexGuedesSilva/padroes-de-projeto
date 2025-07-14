@@ -1,6 +1,6 @@
-package designPattern.creating.factoryMethod.factory;
+package designpattern.creating.factorymethod.factory;
 
-import designPattern.creating.factoryMethod.transport.Transport;
+import designpattern.creating.factorymethod.transport.Transport;
 
 public abstract class TransportFactory {
 	

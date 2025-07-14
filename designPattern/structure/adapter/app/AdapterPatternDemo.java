@@ -1,6 +1,6 @@
-package designPattern.structure.adapter.app;
+package designpattern.structure.adapter.app;
 
-import designPattern.structure.adapter.client.AudioPlayer;
+import designpattern.structure.adapter.client.AudioPlayer;
 
 public class AdapterPatternDemo {
     public static void main(String[] args) {

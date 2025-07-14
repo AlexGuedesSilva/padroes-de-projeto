@@ -1,4 +1,4 @@
-package designPattern.behavior.chainOfResponsibility;
+package designpattern.behavior.chainofresponsibility;
 
 //ConcreteHandler2
 class LoggingHandler extends Handler {

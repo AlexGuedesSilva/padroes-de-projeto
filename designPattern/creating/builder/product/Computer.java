@@ -1,4 +1,4 @@
-package designPattern.creating.builder.product;
+package designpattern.creating.builder.product;
 
 /** Produto complexo construído pelo builder */
 public class Computer {

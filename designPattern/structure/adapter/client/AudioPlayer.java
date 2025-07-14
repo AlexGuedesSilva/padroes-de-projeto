@@ -1,7 +1,7 @@
-package designPattern.structure.adapter.client;
+package designpattern.structure.adapter.client;
 
-import designPattern.structure.adapter.adapter.MediaAdapter;
-import designPattern.structure.adapter.interfaces.MediaPlayer;
+import designpattern.structure.adapter.adapter.MediaAdapter;
+import designpattern.structure.adapter.interfaces.MediaPlayer;
 
 public class AudioPlayer implements MediaPlayer {
     private MediaAdapter mediaAdapter;

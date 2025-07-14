@@ -82,10 +82,7 @@ public class Main {
 }
 ```
 
-## 🔗 Diagrama UML
-
-![Diagrama UML - Chain of Responsibility](assets/chain_uml.png)
-
+---
 
 📘 Benefícios
 - **Baixo acoplamento** entre os objetos que emitem requisições e os que as processam.

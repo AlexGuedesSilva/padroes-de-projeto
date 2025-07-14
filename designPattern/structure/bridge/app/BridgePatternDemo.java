@@ -1,9 +1,9 @@
-package designPattern.structure.bridge.app;
+package designpattern.structure.bridge.app;
 
-import designPattern.structure.bridge.abstraction.AdvancedRemoteControl;
-import designPattern.structure.bridge.abstraction.RemoteControl;
-import designPattern.structure.bridge.implementation.Radio;
-import designPattern.structure.bridge.implementation.Tv;
+import designpattern.structure.bridge.abstraction.AdvancedRemoteControl;
+import designpattern.structure.bridge.abstraction.RemoteControl;
+import designpattern.structure.bridge.implementation.Radio;
+import designpattern.structure.bridge.implementation.Tv;
 
 public class BridgePatternDemo {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package designPattern.creating.builder.variants;
+package designpattern.creating.builder.variants;
 
-import designPattern.creating.builder.product.Computer;
+import designpattern.creating.builder.product.Computer;
 
 /** Interface abstrata que define o processo de build fluente */
 public interface ComputerBuilder {

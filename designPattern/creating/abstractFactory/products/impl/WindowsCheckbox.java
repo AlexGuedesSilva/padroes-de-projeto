@@ -1,6 +1,6 @@
-package designPattern.creating.abstractFactory.products.impl;
+package designpattern.creating.abstractfactory.products.impl;
 
-import designPattern.creating.abstractFactory.products.Checkbox;
+import designpattern.creating.abstractfactory.products.Checkbox;
 
 public class WindowsCheckbox implements Checkbox{
 	public void paint() {

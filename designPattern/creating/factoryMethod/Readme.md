@@ -23,6 +23,8 @@ O **Factory Method** é um padrão de criação que fornece uma **interface para
 	│ ├── Car.java
 	│ └── Bike.java
 	
+---	
+	
 ## ✅ Vantagens
 Criação de objetos desacoplada do código cliente
 
@@ -30,11 +32,8 @@ Criação de objetos desacoplada do código cliente
 
 - Mantém o código organizado e de fácil manutenção.	
 	
-## 🔄 Diagrama UML
-
-![Diagrama UML](assets/factory-method.png)
-
-
+---		
+	
 ## 🧠 Participantes
 
 **Transport** → Interface do produto

@@ -1,4 +1,4 @@
-package designPattern.behavior.chainOfResponsibility;
+package designpattern.behavior.chainofresponsibility;
 
 //Client
 public class Main {

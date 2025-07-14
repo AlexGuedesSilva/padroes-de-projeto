@@ -1,8 +1,8 @@
-package designPattern.creating.abstractFactory.client;
+package designpattern.creating.abstractfactory.client;
 
-import designPattern.creating.abstractFactory.factories.GUIFactory;
-import designPattern.creating.abstractFactory.products.Button;
-import designPattern.creating.abstractFactory.products.Checkbox;
+import designpattern.creating.abstractfactory.factories.GUIFactory;
+import designpattern.creating.abstractfactory.products.Button;
+import designpattern.creating.abstractfactory.products.Checkbox;
 
 public class Application {
     private Button button;

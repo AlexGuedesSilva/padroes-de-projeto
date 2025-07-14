@@ -1,7 +1,7 @@
-package designPattern.creating.factoryMethod.factory;
+package designpattern.creating.factorymethod.factory;
 
-import designPattern.creating.factoryMethod.transport.Bike;
-import designPattern.creating.factoryMethod.transport.Transport;
+import designpattern.creating.factorymethod.transport.Bike;
+import designpattern.creating.factorymethod.transport.Transport;
 
 public class BikeFactory extends TransportFactory {
 

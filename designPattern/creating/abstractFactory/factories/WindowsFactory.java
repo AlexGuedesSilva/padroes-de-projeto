@@ -1,9 +1,9 @@
-package designPattern.creating.abstractFactory.factories;
+package designpattern.creating.abstractfactory.factories;
 
-import designPattern.creating.abstractFactory.products.Button;
-import designPattern.creating.abstractFactory.products.Checkbox;
-import designPattern.creating.abstractFactory.products.impl.WindowsButton;
-import designPattern.creating.abstractFactory.products.impl.WindowsCheckbox;
+import designpattern.creating.abstractfactory.products.Button;
+import designpattern.creating.abstractfactory.products.Checkbox;
+import designpattern.creating.abstractfactory.products.impl.WindowsButton;
+import designpattern.creating.abstractfactory.products.impl.WindowsCheckbox;
 
 public class WindowsFactory implements GUIFactory {
 

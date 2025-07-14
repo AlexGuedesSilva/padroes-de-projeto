@@ -1,7 +1,7 @@
-package designPattern.creating.builder.director;
+package designpattern.creating.builder.director;
 
-import designPattern.creating.builder.product.Computer;
-import designPattern.creating.builder.variants.ComputerBuilder;
+import designpattern.creating.builder.product.Computer;
+import designpattern.creating.builder.variants.ComputerBuilder;
 
 /** Diretor define sequência padrão de construção */
 public class ComputerDirector {
