@@ -64,11 +64,11 @@ Oferece proteção *nativa* contra *serialização* (já garantida) e reflexão 
 ## 🧩 Comparativo técnico
 | Implementação | Thread‑Safe |	Lazy Load |	Performance | Serialização / Reflexão |	Complexidade |
 |---------------|-------------|------------|-------------|-------------------------|---------------|
-| EagerSingleton					| ✅ Sim	❌ 	| Não	| Alta	| Média					| Muito baixa
-| ThreadSafeSingleton			| ✅ Sim	✅ 	| Sim	| Média (sincronizada cada vez)	| Média	| Baixa
-| DoubleCheckedLockingSingleton	| ✅ Sim	✅	| Sim	| Alta (quase sem sincronização)	| Média	| Médio/alta
-| HolderSingleton				| ✅ Sim	✅	| Sim	| Alta (sem sincronização)	 | Média		| Baixa
-| EnumSingleton					| ✅ Sim	❌ 	| Não	| Alta	| Excel. (serialização/reflexão seguras)	| Muito baixa
+| EagerSingleton					| ✅ Sim		| ❌ Não	    | Alta	| Média					| Muito baixa
+| ThreadSafeSingleton			| ✅ Sim		| ✅ Sim	    | Média (sincronizada cada vez)	| Média	| Baixa
+| DoubleCheckedLockingSingleton	| ✅ Sim		| ✅ Sim	    | Alta (quase sem sincronização)	| Média	| Médio/alta
+| HolderSingleton				| ✅ Sim		| ✅ Sim	    | Alta (sem sincronização)	 | Média		| Baixa
+| EnumSingleton					| ✅ Sim		| ❌ Não 	| Alta	| Excel. (serialização/reflexão seguras)	| Muito baixa
 
 ## 💡 Recomendações
 **EnumSingleton**: usada preferencialmente por sua simplicidade, segurança e proteção contra serialização/reflexão.
