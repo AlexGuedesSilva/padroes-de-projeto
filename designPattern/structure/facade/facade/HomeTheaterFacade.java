@@ -29,7 +29,9 @@ public class HomeTheaterFacade {
     public void watchMovie(String movie) {
         System.out.println("Prepare o sistema de Home Theater...");
         projector.on();
+        tuner.on();
         amplifierOn(movie);
+        cd.on();
         dvd.on();
         dvd.play(movie);
     }

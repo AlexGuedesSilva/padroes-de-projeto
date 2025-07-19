@@ -3,7 +3,8 @@ package designpattern.creating.singleton.singletontest;
 import java.io.Serializable;
 
 public final class Singleton implements Serializable, Cloneable {
-    private static volatile Singleton instance;
+	private static final long serialVersionUID = 1L;
+	private static volatile Singleton instance;
 
     private Singleton() {
         // Bloqueia instância extra via Reflection

@@ -16,6 +16,7 @@ public class SingletonTest {
         // Teste clone
         try {
             Singleton sClone = (Singleton) s1.clone();
+            System.out.println(sClone);
         } catch (CloneNotSupportedException e) {
             System.out.println("Clone impedido: " + e.getMessage());
         }
