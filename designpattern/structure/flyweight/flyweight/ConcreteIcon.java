@@ -1,4 +1,4 @@
-package designpattern.structure.flyweight.implementacao;
+package designpattern.structure.flyweight.flyweight;
 
 public class ConcreteIcon implements Icon {
     private final String type; // estado intrínseco

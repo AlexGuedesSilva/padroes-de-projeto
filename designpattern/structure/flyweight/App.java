@@ -1,7 +1,7 @@
 package designpattern.structure.flyweight;
 
-import designpattern.structure.flyweight.implementacao.Icon;
-import designpattern.structure.flyweight.implementacao.IconFactory;
+import designpattern.structure.flyweight.flyweight.Icon;
+import designpattern.structure.flyweight.flyweight.IconFactory;
 
 public class App {
     public static void main(String[] args) {

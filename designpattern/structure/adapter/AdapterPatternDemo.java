@@ -1,4 +1,4 @@
-package designpattern.structure.adapter.app;
+package designpattern.structure.adapter;
 
 import designpattern.structure.adapter.client.AudioPlayer;
 

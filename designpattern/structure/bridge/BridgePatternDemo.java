@@ -1,4 +1,4 @@
-package designpattern.structure.bridge.app;
+package designpattern.structure.bridge;
 
 import designpattern.structure.bridge.abstraction.AdvancedRemoteControl;
 import designpattern.structure.bridge.abstraction.RemoteControl;

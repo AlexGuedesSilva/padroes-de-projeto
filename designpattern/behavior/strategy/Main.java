@@ -1,4 +1,4 @@
-package designpattern.behavior.strategy.app;
+package designpattern.behavior.strategy;
 
 import designpattern.behavior.strategy.strategy.ConcreteStrategyA;
 import designpattern.behavior.strategy.strategy.ConcreteStrategyB;

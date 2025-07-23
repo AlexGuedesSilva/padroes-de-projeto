@@ -1,4 +1,4 @@
-package designpattern.behavior.mediator.app;
+package designpattern.behavior.mediator;
 
 import designpattern.behavior.mediator.colleagues.ConcreteColleague;
 import designpattern.behavior.mediator.mediator.ConcreteMediator;

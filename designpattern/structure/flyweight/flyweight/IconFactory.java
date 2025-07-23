@@ -1,4 +1,4 @@
-package designpattern.structure.flyweight.implementacao;
+package designpattern.structure.flyweight.flyweight;
 
 import java.util.HashMap;
 import java.util.Map;
