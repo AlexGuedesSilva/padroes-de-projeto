@@ -25,7 +25,7 @@ Ele define uma representação gramatical para uma linguagem e usa um interpreta
 
 ```mermaid
 flowchart LR
-    A[Expressão Infixa] --> B[Parser Infixo (Shunting Yard)]
+    A[Expressão Infixa] --> B[Parser Infixo]
     B --> C[Expressão Pós-fixa (RPN)]
     C --> D[Parser RPN]
     D --> E[Árvore de Expressão]
