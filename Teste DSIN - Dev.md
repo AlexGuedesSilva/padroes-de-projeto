@@ -70,9 +70,10 @@ public class CalculoSalarioLiquido {
 }
 ```
 
-```java
+
 2) QUESTÃO
 
+```java
 public class DesafioDoisDSIN {
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner(System.in);
